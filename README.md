@@ -1,8 +1,6 @@
--  Hi, I’m @cecilymp1
-- I’m interested in the intersections of data analysis and environmental studies, and helping communities close to me feel financially and socially empowered. 
-- I’m currently learning data science at Boston University. 
-- How to reach me: cecily.wc@gmail.com
-- Fun fact: I speak 4 languages (not including coding languages 🤓 haha)
+-  Hi, I’m @cecilymp1!
+-  To follow some of my most important projects, refer to the 'Projects' folder to get an organized view of my past work.
+-  For any questions please email me at cecily.wc@gmail.com
 
 <!---
 cecilymp1/cecilymp1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
